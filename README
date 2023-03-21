@@ -1,0 +1,18 @@
+MENÚ:
+    1 : Lectura de datos
+    2 : Crear Objeto
+    3 : Mostrar Objeto
+    4 : Crear Array
+    5 : Mostrar Array
+    6 : Elimine el primer elemento del Array
+    7 : eliminar cualquier elemento del array
+    8 : Agregar elemento al conmienzo del Array
+    9 : Agregar elemento al final del Array
+    10 : Crear array con Objetos
+    11 : Iterar array con Objetos FOR
+    12 : Iterar array con Objeto con ForEach
+    13 : Iterar array con objetos con Map y crear copia
+    14 : Proceso personal
+    15 : Salir.
+
+
